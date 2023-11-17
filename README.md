@@ -1,2 +1,2 @@
 Vercell Link: 
-  https://MAtakanİçel-odev3.vercell.app/
+  https://atakanicel-odev3.vercel.app
