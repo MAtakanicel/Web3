@@ -83,7 +83,7 @@ function App() {
       id: 3,
     },
     {
-      baslik: "Sfırdan Eksiye Flutter",
+      baslik: "Sıfırdan Eksiye Flutter",
       url: "",
       yazar: "M Atakan İçel",
       yorum_sayisi: 343,
